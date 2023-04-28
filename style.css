@@ -1,0 +1,50 @@
+#te {
+    width: ;
+    height: ;
+    font-size: 20px;
+    text-align: center;
+    padding-left: ;
+    border: black solid 3px;
+    border-radius: ;
+    background-color: #59ABEB;
+
+
+}
+
+#cal {
+    font-size: 50px;
+    text-align: center;
+    background-color: #59ABEB;
+
+    border: black solid 3px;
+
+
+
+}
+
+form {
+    font-size: 30px;
+    text-align: center;
+    background-color: #59ABEB;
+
+    border: black solid 3px;
+
+}
+
+input {
+
+    font-size: 30px;
+    text-align: center;
+
+
+    border: black solid 3px;
+}
+#resultado{
+    font-size: 99px;
+    text-align: center;
+    background-color: #59ABEB;
+
+    border: black solid 3px;
+
+
+}
